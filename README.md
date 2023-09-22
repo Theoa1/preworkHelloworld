@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/xsbhxyO](https://imgur.com/a/xsbhxyO)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xsbhxyO"  ><a href="//imgur.com/a/xsbhxyO">Trialapp</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with ... [Kap](https://getkap.co/) for macOS
 
