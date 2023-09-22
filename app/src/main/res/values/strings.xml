@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">preworkHelloworld</string>
+    <string name="homeButtonText">Ask Anything</string>
+    <string name="homeScreenImage">home screen Image</string>
+    <string name="homeIntroText">Hello there, I\'m here to assist you with anything you need. I am your virtual assistant K!</string>
+</resources>
